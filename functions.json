@@ -1,0 +1,53 @@
+{
+    "classifiers": [
+      {
+        "name": "String Manipulation",
+        "description": "Functions that handle parsing, formatting, converting, or manipulating textual data."
+      },
+      {
+        "name": "Numerical Calculations",
+        "description": "Functions focused on performing mathematical or statistical computations and operations."
+      },
+      {
+        "name": "Data Access",
+        "description": "Functions that manage interactions with databases or other persistent storage systems, such as data querying and manipulation."
+      },
+      {
+        "name": "File Handling",
+        "description": "Functions that perform file input/output operations, including reading, writing, and file system manipulation."
+      },
+      {
+        "name": "Networking",
+        "description": "Functions involved in managing data transmission over networks, handling network protocols, and managing network sessions."
+      },
+      {
+        "name": "Utility",
+        "description": "General-purpose utility functions providing common functionalities used across various parts of an application."
+      },
+      {
+        "name": "API Interaction",
+        "description": "Functions that manage interactions with external APIs, including sending requests and handling responses."
+      },
+      {
+        "name": "User Interface",
+        "description": "Functions that directly affect the user interface, including event handling and dynamic content generation."
+      },
+      {
+        "name": "Security",
+        "description": "Functions ensuring application security, including tasks related to encryption, decryption, and user authentication."
+      },
+      {
+        "name": "Logging and Monitoring",
+        "description": "Functions dedicated to logging and monitoring application activity to aid in debugging and providing operational insights."
+      },
+      {
+        "name": "Business Logic",
+        "description": "Functions implementing core business rules and logic specific to the application's domain requirements."
+      },
+      {
+        "name": "Configuration and Setup",
+        "description": "Functions involved in the initial setup and configuration of the application or its components."
+      }
+    ]
+  }
+  
